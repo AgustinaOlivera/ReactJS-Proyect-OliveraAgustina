@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+html, body, main{
+    height: 100%;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+}
