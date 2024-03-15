@@ -12,3 +12,14 @@ body{
     display: flex;
     flex-direction: column;
 }
+
+.logoHome{
+    height: 200px;
+}
+
+.active{
+    background-color: rgb(80 7 36);
+    color:whitesmoke;
+    transition: all 0.3s ease;
+    border-radius: 10%;
+}
